@@ -47,8 +47,8 @@ Material:
     m_Ints: []
     m_Floats:
     - _Foam_Distance: 0.6
-    - _Metallic: 0.664
-    - _Noise_Scale: 0.009
+    - _Metallic: 1
+    - _Noise_Scale: 0.006
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Refraction: 0.1
